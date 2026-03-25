@@ -31,7 +31,9 @@ When you touch the fruit, your body changes the capacitance, and the Arduino det
 - Jumper wires  
 - Fruits 🍓🍌🍎  
 - Speaker / buzzer  
-- CapacitiveSensor library  
+- CapacitiveSensor library
+- Breadboard  
+- Resistors (1MΩ or higher recommended)
 
 ---
 
