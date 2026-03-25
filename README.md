@@ -49,6 +49,6 @@ This project combines creativity, electronics, and interactive design to make le
 ---
 
 ## 👩‍💻 Author
-Dalia - Arduino & Creative Tech Content Creator
+With Love Dalia 
 
 ---
