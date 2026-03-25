@@ -8,7 +8,9 @@ This project uses Arduino and capacitive sensing to turn everyday objects into a
 ---
 
 ## 🎥 Demo
+Here’s a quick demo of the project in action:
 
+👉 https://www.instagram.com/p/DHZB0AgMxP5/
 
 ---
 
