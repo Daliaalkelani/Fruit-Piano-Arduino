@@ -33,8 +33,8 @@ When you touch the fruit, your body changes the capacitance, and the Arduino det
 
 ---
 
-## 🔌 Setup
-(Add your setup image here)
+## 🔌 Circuit
+![Circuit](images/circuit.jpg)
 
 ---
 
