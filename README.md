@@ -41,7 +41,14 @@ When you touch the fruit, your body changes the capacitance, and the Arduino det
 ![Circuit](images/Circut.jpg)
 
 ---
+## 📚 Library Required
 
+Please make sure to install the **CapacitiveSensor** library before uploading the code to Arduino.
+
+You can install it from the Arduino Library Manager:
+Sketch → Include Library → Manage Libraries → search for "CapacitiveSensor"
+
+---
 ## 💻 Code
 The code is available in the `/code` folder.
 
